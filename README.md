@@ -8,29 +8,44 @@ Jetpack Compose, Kotlin Multiplatform and Compose Multiplatform.
 My main project is **EasyGetApp**, a multi-service mobile application
 for Android and iOS.
 
-### 🚀 Featured Project
+## 🚀 Featured Project
 
-**EasyGetApp**
+### EasyGetApp
 
 A multi-service mobile platform involving:
 
-- Taxi dispatch
+- Taxi dispatch and booking
 - Maps and location services
 - Firebase Authentication
 - Firebase Realtime Database
 - Firebase Cloud Functions
-- Node.js & REST APIs
-- Stripe payments
+- Node.js and REST APIs
+- Stripe payment integration
 - Agora real-time communication
 - Kotlin Multiplatform
 - Compose Multiplatform
+- Backend deployment with Railway
 
-### 🛠 Technologies
+## 🛠️ Technologies
 
-Kotlin • Android • Jetpack Compose • KMP • Compose Multiplatform  
-Node.js • Firebase • REST APIs • Google Maps • Stripe • Agora
+**Mobile**
 
-### 🔗 Links
+Kotlin • Android • Jetpack Compose • Kotlin Multiplatform • Compose Multiplatform
 
-- [Portfolio](https://slinfish.github.io/portfolio/)
-- [LinkedIn](https://www.linkedin.com/in/justice-adioha-396741429)
+**Backend & Cloud**
+
+Node.js • Firebase • Firebase Cloud Functions • REST APIs • Railway
+
+**Integrations**
+
+Google Maps • Stripe • Agora
+
+## 🔗 Links
+
+🌐 [Portfolio](https://slinfish.github.io/portfolio/)
+
+💼 [LinkedIn](https://www.linkedin.com/in/justice-adioha-396741429/)
+
+---
+
+*Currently open to Android, Kotlin Multiplatform and mobile software development opportunities.*
