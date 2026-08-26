@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Justice Adioha 👋
 
-<!--
-**SlinFish/slinfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Android & Kotlin Multiplatform Developer
 
-Here are some ideas to get you started:
+I'm a mobile application developer specializing in Kotlin, Android,
+Jetpack Compose, Kotlin Multiplatform and Compose Multiplatform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main project is **EasyGetApp**, a multi-service mobile application
+for Android and iOS.
+
+### 🚀 Featured Project
+
+**EasyGetApp**
+
+A multi-service mobile platform involving:
+
+- Taxi dispatch
+- Maps and location services
+- Firebase Authentication
+- Firebase Realtime Database
+- Firebase Cloud Functions
+- Node.js & REST APIs
+- Stripe payments
+- Agora real-time communication
+- Kotlin Multiplatform
+- Compose Multiplatform
+
+### 🛠 Technologies
+
+Kotlin • Android • Jetpack Compose • KMP • Compose Multiplatform  
+Node.js • Firebase • REST APIs • Google Maps • Stripe • Agora
+
+### 🔗 Links
+
+- [Portfolio](https://slinfish.github.io/portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/justice-adioha-396741429)
